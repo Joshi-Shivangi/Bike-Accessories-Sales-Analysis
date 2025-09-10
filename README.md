@@ -56,5 +56,14 @@ Created **17+ DAX measures** for KPIs and advanced analytics, including:
 
 ✅ This project demonstrates end-to-end skills: **data cleaning, modeling, DAX calculations, and visualization** in Power BI.  
 
-## Kindly find the snapshots of this dashboard above
+## 🖼 Dashboard Snapshots  
+
+### 📌 Master Data Model  
+![Master Data](Master%20Data.png)  
+
+### 📌 Management Report - Overview  
+![Management Report 1](Management%20Report1.png)  
+
+### 📌 Management Report - Performance  
+![Management Report 2](Management%20Report2.png)  
 
